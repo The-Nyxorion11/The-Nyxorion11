@@ -26,7 +26,7 @@
 
 <h3>Environment & DevOps</h3>
 
-[![Environment & DevOps](https://skillicons.dev/icons?i=linux,git,github,gradle,maven,docker)](https://skillicons.dev)
+[![Environment & DevOps](https://skillicons.dev/icons?i=linux,git,github,gradle,maven)](https://skillicons.dev)
 
 <h2>Featured Projects</h2>
 
