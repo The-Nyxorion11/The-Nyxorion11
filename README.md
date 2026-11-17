@@ -2,7 +2,7 @@
 
 <h1>Hi there! 👋</h1>
 
-<p>Hi, I'm Jhostin — a software developer passionate about backend engineering and everything that happens behind the scenes. I specialize in designing robust architectures, custom plugins, and developer tools, with <b>Java</b> as my language of choice.</p>
+<p>Hi, I'm Jhostin — a software developer passionate about backend engineering and everything that happens behind the scenes. I specialize in designing robust architectures, custom plugins, and developer tools, with <b>Java</b> and <b>Rust</b> as my languages of choice.</p>
 
 <h2>Tech Stack</h2>
 
