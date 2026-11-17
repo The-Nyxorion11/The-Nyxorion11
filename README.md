@@ -8,7 +8,13 @@
 
 <h3>Programming Languages</h3>
 
-[![Programming Languages](https://skillicons.dev/icons?i=java,kotlin,cpp,python,lua,js)](https://skillicons.dev)
+<h3>Main languages:</h3>
+
+[![Programming Languages](https://skillicons.dev/icons?i=java,rust)](https://skillicons.dev)
+
+<h3>Secondary languages:</h3>
+
+[![Programming Languages](https://skillicons.dev/icons?i=kotlin,cpp,python,lua,js)](https://skillicons.dev)
 
 <h3>Backend & Frameworks</h3>
 
