@@ -14,7 +14,7 @@
 
 <h3>Secondary languages:</h3>
 
-[![Programming Languages](https://skillicons.dev/icons?i=kotlin,cpp,python,lua,js)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=kotlin,cpp,python,lua)](https://skillicons.dev)
 
 <h3>Backend & Frameworks</h3>
 
